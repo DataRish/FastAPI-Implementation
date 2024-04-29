@@ -1,0 +1,7 @@
+/venv
+
+/app/test.py
+/app/address.db
+/app/__pycache__
+.DS_Store
+.idea
